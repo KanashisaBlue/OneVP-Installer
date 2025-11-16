@@ -1,2 +1,2 @@
 # OneVP-Installer
-OneVPのインストーラー
+OneVP / わんコメとVOICEPEAKを連携させるツール（MacOS専用アプリ）
