@@ -1,7 +1,13 @@
 ## OneVP / わんコメとVOICEPEAKを連携させるツール（MacOS専用アプリ）
 
+<img width="899" height="555" alt="image" src="https://github.com/user-attachments/assets/965dc3fc-c49f-49af-8dc3-be42da620287" />
+
+### ダウンロード
+
 https://github.com/KanashisaBlue/OneVP-Installer/releases  
-こちらのページから最新の .dmgファイル をダウンロードしてインストールしてください。
+↑こちらのページから最新の .dmgファイル をダウンロードしてインストールしてください。
+
+このソフトはMacOS専用です。Windowsでは動作しません。  
 
 ### 動作環境
 macOS 14 Sonoma以降  
