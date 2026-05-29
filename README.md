@@ -1,4 +1,4 @@
-# OneVP / わんコメとVOICEPEAKを連携させるツール（MacOS専用）
+# OneVP / わんコメとVOICEPEAKを連携させるツール（MacOS専用 / わんコメのバージョンが9.0.0以降は非対応）
 
 <img width="899" height="555" alt="image" src="https://github.com/user-attachments/assets/965dc3fc-c49f-49af-8dc3-be42da620287" />
 
@@ -13,7 +13,7 @@ https://github.com/KanashisaBlue/OneVP-Installer/releases
 macOS 14 Sonoma以降  
 （Apple silicon、Intel両対応ユニバーサルバイナリ）
 
-わんコメ バージョン : 8.0.7  
+わんコメ バージョン : 8.0.7（わんコメ最新バージョンの9.0.0以降はコメント取得APIが廃止されたようで、このアプリが正しく動かない可能性が高いです）  
 VOICEPEAK バージョン : 1.2.19  
 にて動作確認済み。古いバージョンでは正しく動作しない可能性があります。  
 VOICEPEAKは体験版を使用している場合、また、ライセンスのアクティベートが行われてない状況では正しく動作しません。  
