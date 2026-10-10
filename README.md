@@ -79,7 +79,7 @@ VOICEPEAKをデフォルト以外の場所にインストールしている場�
 | | 😢 | sad |
 | | 😡 | angry |
 | | 😆 | ochoushimono |
-| **Japanese 系**（Japanese Male 1〜3 / Female 1〜3 / Female
+| **Japanese 系** | 😊 | happy |
 | | 😢 | sad |
 | | 😆 | fun |
 | | 😡 | angry |
