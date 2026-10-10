@@ -10,7 +10,7 @@ https://github.com/KanashisaBlue/OneVP-Installer/releases
 
 このソフトはMacOS専用です。Windowsでは動作しません。  
 
-# OneVP2.0.0
+# OneVP2.1.0
 
 ## 動作環境
 macOS 14 Sonoma以降  
