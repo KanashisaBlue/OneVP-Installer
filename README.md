@@ -16,9 +16,9 @@ https://github.com/KanashisaBlue/OneVP-Installer/releases
 macOS 14 Sonoma以降  
 （Apple silicon、Intel両対応ユニバーサルバイナリ）
 
-わんコメ バージョン : 8.0.7 または 9.0.0以降  
-VOICEPEAK バージョン : 1.2.21以降  
-にて動作確認済み。古いバージョンでは正しく動作しない可能性があります。  
+わんコメ バージョン : 9.1.0  
+VOICEPEAK バージョン : 1.2.23  
+にて動作確認済み。古いバージョンでは正しく動作しない可能性があります（わんコメはバージョン7以前は動作しません）。  
 VOICEPEAKは体験版を使用している場合、また、ライセンスのアクティベートが行われてない状況では正しく動作しません。  
 わんコメやVOICEPEAKのアップデート等で仕様変更が入った場合、   
 このアプリケーションが動かなくなる可能性があります。
@@ -50,16 +50,46 @@ VOICEPEAKをデフォルト以外の場所にインストールしている場�
 
 ## おまけ機能
 
-話者に「商用可能 6ナレーターセット」「宮舞モカ」「フリモメン」を指定している場合、  
+話者に「商用可能 6ナレーターセット」「宮舞モカ」「桜乃そら」「フリモメン」「ぽろんちゃん」を指定している場合、  
 「絵文字で感情/性別を変更」にチェックを入れると、コメント内に特定の絵文字がある場合に  
 発生ボイスの感情や性別が変わる機能があります。  
 
 ※この機能を使用する場合は「設定」→「読み上げ」の「絵文字を除外する」のチェックを外してください。  
 
-|絵文字|内容|
+### 話者別の対応表
+
+| 話者 | 絵文字 | 感情 |
+|---|---|---|
+| **Haruno Sora** | 😊 | happy |
+| | 😢 | sad |
+| | 😡 | angry |
+| | 😶‍🌫️ | whisper |
+| | 😎 | cool |
+| **Poronchan** | 🤖 | robot |
+| | 😌 | mellow |
+| | 😡 | punpun |
+| | 🧠 / 🤓 | genius |
+| | 😢 | teary |
+| **Miyamai Moca** | 😶‍🌫️ | bosoboso |
+| | 😆 | doyaru |
+| | 😊 | honwaka |
+| | 😡 | angry |
+| | 😢 | teary |
+| **Frimomen** | 😊 | happy |
+| | 😢 | sad |
+| | 😡 | angry |
+| | 😆 | ochoushimono |
+| **Japanese 系**（Japanese Male 1〜3 / Female 1〜3 / Female
+| | 😢 | sad |
+| | 😆 | fun |
+| | 😡 | angry |
+
+### 性別の切り替え
+
+| 絵文字 | 動作 |
 |---|---|
-|😊😢😆😡😶|感情表現が入る|
-|👨👩|強制的に絵文字の性別に変わる|
+| 👨 | Japanese Female 1〜3 → Japanese Male 1〜3 / Miyamai Moca → Frimomen |
+| 👩 | Japanese Male 1〜3 → Japanese Female 1〜3 / Frimomen → Miyamai Moca |
   
 その他の話者についてはライセンスを持ってないので対応できませんが、  
 ご協力頂ければ対応できる可能性があります。  
@@ -103,7 +133,7 @@ YouTube : https://www.youtube.com/@KanashisaBlue
 
 ---
 
-# 以下はOneVP1.0.0の内容です
+# 以下はOneVP1.0.0の内容です（OneVP2.0以降は異なる情報です）
 
 ※OneVP2.0.0以降と違う部分のみ記載してあります。  
 
